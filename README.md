@@ -39,3 +39,6 @@
 ## Jumps
 - jal
 - jalr
+
+# Authors
+Maxwell Lubarsky [@mlubarsky](https://github.com/mlubarsky)
