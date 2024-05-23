@@ -1,8 +1,8 @@
-## RISC-V Emulator
-# Includes instructions used analytics, and directed map + set associative cache
+# RISC-V Emulator
+## Includes instructions used analytics, and directed map + set associative cache
 
-Can emulate the following instructions:
-# R-type
+## Can emulate the following instructions:
+## R-type
 add
 sub
 mul
@@ -14,28 +14,28 @@ sllw
 sraw
 and
 
-# I-type
+## I-type
 addi
 slli
 srli
 srai
 
-# Loads
+## Loads
 lb
 lw
 ld
 
-# Stores
+## Stores
 sb
 sw
 sd
 
-# Branches
+## Branches
 blt
 bne
 beq
 bge
 
-# Jumps
+## Jumps
 jal
 jalr
