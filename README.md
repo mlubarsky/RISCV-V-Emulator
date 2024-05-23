@@ -3,39 +3,39 @@
 
 ## Can emulate the following instructions:
 ## R-type
-add
-sub
-mul
-div
-srl
-sll
-sra
-sllw
-sraw
-and
+- add
+- sub
+- mul
+- div
+- srl
+- sll
+- sra
+- sllw
+- sraw
+- and
 
 ## I-type
-addi
-slli
-srli
-srai
+- addi
+- slli
+- srli
+- srai
 
 ## Loads
-lb
-lw
-ld
+- lb
+- lw
+- ld
 
 ## Stores
-sb
-sw
-sd
+- sb
+- sw
+- sd
 
 ## Branches
-blt
-bne
-beq
-bge
+- blt
+- bne
+- beq
+- bge
 
 ## Jumps
-jal
-jalr
+- jal
+- jalr
