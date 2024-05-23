@@ -1,3 +1,41 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OEbiNtTB)
-# project04-starter
-Project04 Starter Code
+## RISC-V Emulator
+# Includes instructions used analytics, and directed map + set associative cache
+
+Can emulate the following instructions:
+# R-type
+add
+sub
+mul
+div
+srl
+sll
+sra
+sllw
+sraw
+and
+
+# I-type
+addi
+slli
+srli
+srai
+
+# Loads
+lb
+lw
+ld
+
+# Stores
+sb
+sw
+sd
+
+# Branches
+blt
+bne
+beq
+bge
+
+# Jumps
+jal
+jalr
