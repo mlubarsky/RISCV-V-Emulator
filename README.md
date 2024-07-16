@@ -1,5 +1,5 @@
 # RISC-V Emulator
-## Includes instructions used analytics, and directed map + set associative cache
+## Includes "instructions used" analytics, and direct mapped + set associative cache
 
 ## Can emulate the following instructions:
 ## R-type
